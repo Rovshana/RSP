@@ -3,8 +3,8 @@
 let gameArr = ['r', 's', 'p']; 
 player1Score = 0;
 player2Score = 0;
-player1ScorePanel = document.querySelector("#playerScorePanel1")
-player1ScorePane2 = document.querySelector("#playerScorePanel2")
+player1ScorePanel = document.querySelector('#playerScorePanel1')
+player1ScorePanel2 = document.querySelector('#playerScorePanel2')
 winInfoPanel1 = document.querySelector('#winGame1');
 winInfoPanel2 = document.querySelector('#winGame2');
 
